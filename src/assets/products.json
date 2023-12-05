@@ -1,0 +1,25 @@
+[
+    {
+      "id": 1,
+      "name": "Product 1",
+      "description": "Description for Product 1",
+      "price": 19.99,
+      "imageUrl": "https://www.fashioncolour.in/cdn/shop/products/FC_Platinum_Nail_Polish_Shade_159.jpg?v=1668152544&width=1946"
+    },
+    {
+      "id": 2,
+      "name": "Product 2",
+      "description": "Description for Product 2",
+      "price": 29.99,
+      "imageUrl": "path/to/product2.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Product 3",
+      "description": "Description for Product 3",
+      "price": 39.99,
+      "imageUrl": "path/to/product3.jpg"
+    }
+
+  ]
+  
